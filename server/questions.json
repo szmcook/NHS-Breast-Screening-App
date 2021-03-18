@@ -1,0 +1,55 @@
+{
+  "initialFamilyQ":0,
+
+  "initialParticipantQ":2,
+
+  "Qs":[
+    {
+      "id":"q1Family",
+      "text": "Do you have any relatives aged 50 to 70 who have been invited for breast screening?",
+      "options": ["Yes", "No", "Not Sure"],
+      "nextQuestionIndex": [1,-1,-1],
+      "longestPath": 2,
+      "info": [
+        "",
+        "All women between 50 and their 71st birthday are invited for NHS breast screening every 3 years. <br><br>Find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening from gov.uk</a>.<br><br>You can also encourage your relatives to check their breasts and be aware of the symptoms of breast cancer. Find out more about the <a href=\"https://www.nhs.uk/conditions/breast-cancer/symptoms/\" target=\"_blank\">symptoms of breast cancer from the NHS website</a>.",
+        "All women between 50 and their 71st birthday are invited for NHS breast screening every 3 years. <br><br>If your relative has not been invited but think they should have been they can contact their local breast screening unit. <a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>. <br><br>Find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening from gov.uk</a>. <br><br>Download the <a href=\"https://www.bhbss.nhs.uk/files/Breast_screening_The_Facts_In_bengali.pdf\" target=\"_blank\">NHS breast screening leaflet in Bengali (PDF)</a>."]
+    },
+
+    {
+      "id":"q2Family",
+      "text": "Did your relative go for screening when they were invited?",
+      "options": ["Yes", "No", "Not Sure"],
+      "nextQuestionIndex": [-1,-1,-1],
+      "longestPath": 1,
+      "info": [
+        "It’s great that your relative has gone for breast screening! <br><br>You can also encourage them to check their breasts and be aware of the symptoms of breast cancer between screening invites. <br><br>Find out more about the <a href=\"https://www.nhs.uk/conditions/breast-cancer/symptoms\" target=\"_blank\">symptoms of breast cancer from the NHS website</a>.",
+        "Talking to your relative about breast screening may encourage them to go. <br><br>Breast screening can help find breast cancer early before it can be seen or felt. This makes it more treatable. <br><br>Find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening, including the risks and benefits, from gov.uk</a>. <br><br>Download the <a href=\"https://www.bhbss.nhs.uk/files/Breast_screening_The_Facts_In_bengali.pdf\" target=\"_blank\">NHS breast screening leaflet in Bengali (PDF)</a>. <br><br>If your relative wants to get screened, they can contact their local breast screening unit. <br><br><a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>.",
+        "Talking to your relative about breast screening may encourage them to go. <br><br>Breast screening can help find breast cancer early before it can be seen or felt, which makes it more treatable. <br><br>Find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening, including the risks and benefits, from gov.uk</a>. <br><br>Download the <a href=\"https://www.bhbss.nhs.uk/files/Breast_screening_The_Facts_In_bengali.pdf\" target=\"_blank\">NHS breast screening leaflet in Bengali (PDF)</a>. <br><br>If your relative wants to get screened, they can contact their local breast screening unit. <br><br><a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>."]
+    },
+
+    {
+      "id":"q1Participant",
+      "text": "Have you ever been invited for breast screening?",
+      "options": ["Yes", "No", "Not Sure"],
+      "nextQuestionIndex": [3,-1,-1],
+      "longestPath": 2,
+      "info": [
+        "",
+        "If you are between 50 and your 71st birthday you should be invited for breast screening every 3 years. <br><br>Contact your local NHS breast screening unit if you have not been invited but think you should have been. <a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>. <br><br>You should also check your breasts and be aware of the symptoms of breast cancer. <br><br>Find out more about the <a href=\"https://www.nhs.uk/conditions/breast-cancer/symptoms/\" target=\"_blank\">symptoms of breast cancer from the NHS website</a>.",
+        "If you are between 50 and your 71st birthday you should be invited for breast screening every 3 years. <br><br>Contact your local NHS breast screening unit if you have not been invited but think you should have been. <a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>. <br><br>You should also check your breasts and be aware of the symptoms of breast cancer. <br><br>Find out more about the <a href=\"https://www.nhs.uk/conditions/breast-cancer/symptoms/\" target=\"_blank\">symptoms of breast cancer from the NHS website</a>."]
+    },
+
+    {
+      "id":"q2Participant",
+      "text": "Did you go for screening when you were invited?",
+      "options": ["Yes", "No", "Not Sure"],
+      "nextQuestionIndex": [-1,-1,-1],
+      "longestPath": 1,
+      "info": [
+        "It’s great that you have gone for breast screening! <br><br>Between screening invites you should also check your breasts and be aware of the symptoms of breast cancer. <br><br>Find out more about the <a href=\"https://www.nhs.uk/conditions/breast-cancer/symptoms\" target=\"_blank\">symptoms of breast cancer from the NHS website</a>.",
+        "Breast screening can help find breast cancer early before it can be seen or felt. This makes it more treatable. <br><br>Find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening, including the risks and benefits,from gov.uk</a>. <br><br>Download the <a href=\"https://www.bhbss.nhs.uk/files/Breast_screening_The_Facts_In_bengali.pdf\" target=\"_blank\">NHS breast screening leaflet in Bengali (PDF)</a>. <br><br>If you want to get screened, contact your local breast screening unit. <br><br><a href=\"https://www.nhs.uk/service-search/other-services/Breast-screening-services/LocationSearch/325\" target=\"_blank\">Find local NHS breast screening units</a>. ",
+        "Find out more about <a href=\"https://www.nhs.uk/conditions/breast-cancer-screening/what-happens/\" target=\"_blank\">what happens during breast screening from the NHS website</a>. <br><br>Download the <a href=\"https://www.bhbss.nhs.uk/files/Breast_screening_The_Facts_In_bengali.pdf\" target=\"_blank\">NHS breast screening leaflet in Bengali (PDF)</a>. <br><br>You can also find more information about <a href=\"https://www.gov.uk/breast-screening-info\" target=\"_blank\">NHS breast screening, including the risks and benefits, from gov.uk.</a>"]
+    }
+  ]
+}
